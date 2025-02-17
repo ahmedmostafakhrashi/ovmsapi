@@ -33,7 +33,7 @@
             <div class=" row d-flex">
             <label class="form-label col-md-3" for="">http://65.108.218.92:6868/api/</label>
                 <div class="col-md-8">
-                <input type="text" id="apiUrl" class="form-control  mx-2" placeholder="أدخل رابط API">
+                <input type="text" id="apiUrl" class="form-control  mx-2" value="vehicles" placeholder="أدخل رابط API">
                 </div>
             </div> 
             <label for="apiUrl" class="form-label">EX:vehicles - token</label>
